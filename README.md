@@ -1,21 +1,87 @@
-<h1 align="center">Eu 👋, me chamo Kaio Fernandes</h1>
-<h3 align="center">Apaixonado por Programação e Tecnologia</h3>
+<!-- ===== README - Perfil de kaiofernandesdevs ===== -->
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaiofernandesdevs&label=Profile%20views&color=0e75b6&style=flat" alt="kaiofernandesdevs" /> </p>
+  <h1 align="center">Olá 👋, eu sou <strong>Kaio Fernandes</strong></h1>
+  <p align="center">Desenvolvedor Full Stack · Apaixonado por tecnologia · Sempre evoluindo</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaiofernandesdevs" alt="kaiofernandesdevs" /></a> </p>
+  <!-- Typing SVG -->
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=1D4ED8&center=true&vCenter=true&width=600&height=40&lines=Transformando+problemas+em+solu%C3%A7%C3%B5es.;Cada+linha+de+c%C3%B3digo+%3D+evolu%C3%A7%C3%A3o.;Apaixonado+por+aprender+sempre." 
+    alt="Typing SVG" 
+  />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kaio fernandes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaio fernandes" height="30" width="40" /></a>
-</p>
+  <!-- GitHub Stats -->
+  <div>
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=kaiofernandesdevs&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=false&title_color=1D4ED8&icon_color=1D4ED8" 
+      height="150"
+      alt="GitHub stats"
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=kaiofernandesdevs&layout=compact&langs_count=6&theme=radical&hide_border=false&title_color=1D4ED8" 
+      height="150"
+      alt="Top Languages"
+    />
+  </div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaiofernandesdevs&show_icons=true&locale=en&layout=compact" alt="kaiofernandesdevs" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaiofernandesdevs&show_icons=true&locale=en" alt="kaiofernandesdevs" /></p>
+## 🛠️ Skills & Tecnologias
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaiofernandesdevs&" alt="kaiofernandesdevs" /></p>
+### 🎨 Frontend
+**Angular · TypeScript · JavaScript · React.js · Redux**
 
+HTML5 · CSS3 · SASS · RxJS · NgRx
+
+---
+
+### ⚙️ Backend
+**Java · Spring Boot · .NET · C# · Node.js · Python · Swift**
+
+APIs REST · Microsserviços · WebSockets
+
+---
+
+### ☁️ Cloud & DevOps
+**AWS · Docker · Vercel · Render**
+
+CI/CD · Containers · Deploy automatizado
+
+---
+
+### 🛢️ Bancos de Dados
+**Oracle · MySQL · MongoDB**
+
+Modelagem · Consultas · ORM
+
+---
+
+### 💻 Ferramentas de Trabalho
+**Notion · Postman · Visual Studio · VS Code · Eclipse · IntelliJ · Git**
+
+---
+
+## 📚 Atualmente estudando
+**Angular · Java · AWS**
+
+---
+
+## 📫 Entre em contato
+📧 Email: *adicione aqui*  
+🔗 LinkedIn: *adicione aqui*  
+📷 Instagram / YouTube / Twitch: *adicione aqui*
+
+> Posso preencher automaticamente se me enviar os links!
+
+---
+
+> **"In every challenge, I see an opportunity for learning, like an astronomer faced with a cosmic mystery."**  
+> — *Astronomer*
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="snake animation" />
+</div>
