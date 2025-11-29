@@ -1,87 +1,63 @@
-<!-- ===== README - Perfil de kaiofernandesdevs ===== -->
-<div align="center">
+<h1 align="center">Hello Word!</h1>
 
-  <h1 align="center">Olá 👋, eu sou <strong>Kaio Fernandes</strong></h1>
-  <p align="center">Desenvolvedor Full Stack · Apaixonado por tecnologia · Sempre evoluindo</p>
-
-  <!-- Typing SVG -->
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=1D4ED8&center=true&vCenter=true&width=600&height=40&lines=Transformando+problemas+em+solu%C3%A7%C3%B5es.;Cada+linha+de+c%C3%B3digo+%3D+evolu%C3%A7%C3%A3o.;Apaixonado+por+aprender+sempre." 
-    alt="Typing SVG" 
-  />
-
-  <!-- GitHub Stats -->
-  <div>
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=kaiofernandesdevs&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=false&title_color=1D4ED8&icon_color=1D4ED8" 
-      height="150"
-      alt="GitHub stats"
-    />
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=kaiofernandesdevs&layout=compact&langs_count=6&theme=radical&hide_border=false&title_color=1D4ED8" 
-      height="150"
-      alt="Top Languages"
-    />
-  </div>
-
-</div>
-
----
-
-## 🛠️ Skills & Tecnologias
-
-### 🎨 Frontend
-**Angular · TypeScript · JavaScript · React.js · Redux**
-
-HTML5 · CSS3 · SASS · RxJS · NgRx
-
----
-
-### ⚙️ Backend
-**Java · Spring Boot · .NET · C# · Node.js · Python · Swift**
-
-APIs REST · Microsserviços · WebSockets
-
----
-
-### ☁️ Cloud & DevOps
-**AWS · Docker · Vercel · Render**
-
-CI/CD · Containers · Deploy automatizado
-
----
-
-### 🛢️ Bancos de Dados
-**Oracle · MySQL · MongoDB**
-
-Modelagem · Consultas · ORM
-
----
-
-### 💻 Ferramentas de Trabalho
-**Notion · Postman · Visual Studio · VS Code · Eclipse · IntelliJ · Git**
-
----
-
-## 📚 Atualmente estudando
-**Angular · Java · AWS**
-
----
-
-## 📫 Entre em contato
-📧 Email: *adicione aqui*  
-🔗 LinkedIn: *adicione aqui*  
-📷 Instagram / YouTube / Twitch: *adicione aqui*
-
-> Posso preencher automaticamente se me enviar os links!
-
----
-
-> **"In every challenge, I see an opportunity for learning, like an astronomer faced with a cosmic mystery."**  
-> — *Astronomer*
-
----
+###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="snake animation" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouzaa.maurodesouzaa&"  />
 </div>
+
+###
+
+<h3 align="left"></h3>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="stackoverflow logo"  />
+</div>
+
+###
+
+<h1 align="left">Tecnologias</h1>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouzaa/maurodesouzaa/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouzaa/maurodesouzaa/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouzaa/maurodesouzaa/output/pacman-contribution-graph.svg">
+</picture>
+
+###
