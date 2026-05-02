@@ -62,8 +62,9 @@
 
 </div>
 
+
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTRhY2JqZzV0Y2Q1c3Z1cWJ0c3Z5eG1nZ2V1c3V0Z2J3b3k0c2F0YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="500px"/>
+<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="450px"/>
 
 </div>
