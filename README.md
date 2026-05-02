@@ -38,18 +38,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaiofernandesdevs&theme=dracula&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiofernandesdevs&layout=compact&theme=dracula"/>
-</div>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=kaiofernandesdevs&theme=dracula" />
-
----
-
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kaio%20Fernandes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaiofernandesdias)
@@ -60,8 +48,6 @@
 ---
 
 <div align="center">
-
-### ✨ Filosofia
 
 *"Try not to become a man of success, but rather try to become a man of value."*  
 
