@@ -64,6 +64,6 @@
 
 <div align="center">
 
-<img src="https://github.com/drifter1/drifter1/blob/main/assets/pikachu-wave.gif" width="300px"/>
+<img src="https://github.com/drifter1/drifter1/blob/main/assets/pikachu-wave.gif" width="250px"/>
 
 </div>
