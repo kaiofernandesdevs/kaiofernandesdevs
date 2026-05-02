@@ -65,6 +65,6 @@
 
 <div align="center">
 
-<img src="[https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif](https://i.pinimg.com/originals/e9/38/d1/e938d18fc07a3ffd16b4864ef2f1308f.gif)" width="450px"/>
+<img src="https://github.com/drifter1/drifter1/blob/main/assets/pikachu-wave.gif" width="450px"/>
 
 </div>
