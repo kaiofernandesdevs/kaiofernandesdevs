@@ -1,54 +1,70 @@
 ![](https://komarev.com/ghpvc/?username=kaiofernandesdevs&color=006bed)
 
-- Estudando Análise e Desenvolvimento de Sistemas pelo Centro Universitário Senac.
-- Trabalhando como Analista de TI na Stefanini Group.
-- Sonho em me tornar Engenheiro de Software.
+- Estudando Análise e Desenvolvimento de Sistemas pelo Centro Universitário Senac  
+- Trabalhando como Analista de TI na Stefanini Group  
+- Buscando me tornar Engenheiro de Software  
 
-## Minhas Skills
+---
+
+## Skills
 
 **Backend e Databases**
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Frontend**
 
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-**Utilidades**
+**Ferramentas**
 
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-**DevOps**
+**Dev Tools**
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-**Ferramentas de desenvolvimento**
+---
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaiofernandesdevs&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiofernandesdevs&layout=compact&theme=dracula"/>
+</div>
 
 <br/>
 
-<a href="https://github.com/kaiofernandesdevs" title="Perfil do Kaio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaiofernandesdevs&theme=dracula&show_icons=true" />
-</a>
+<img src="https://streak-stats.demolab.com?user=kaiofernandesdevs&theme=dracula" />
 
-## Onde me encontrar
+---
 
-[![Linkedin](https://img.shields.io/badge/-Kaio%20Fernandes-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kaiofernandesdias)
+## Contato
 
-[![Gmail Badge](https://img.shields.io/badge/-kaioffernandesdias@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white)](mailto:kaioffernandesdias@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kaio%20Fernandes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaiofernandesdias)
 
-[![GitHub](https://img.shields.io/github/followers/kaiofernandesdevs?label=follow&style=social)](https://github.com/kaiofernandesdevs)
+[![Gmail](https://img.shields.io/badge/Gmail-kaioffernandesdias%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaioffernandesdias@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-kaiofernandesdevs-181717?style=for-the-badge&logo=github)](https://github.com/kaiofernandesdevs)
+---
+
+<div align="center">
+
+### ✨ Filosofia
+
+*"Try not to become a man of success, but rather try to become a man of value."*  
+
+— **Albert Einstein**
+
+</div>
