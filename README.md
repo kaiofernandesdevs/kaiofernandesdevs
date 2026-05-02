@@ -62,9 +62,8 @@
 
 </div>
 
-
 <div align="center">
 
-<img src="https://github.com/drifter1/drifter1/blob/main/assets/pikachu-wave.gif" width="450px"/>
+<img src="https://github.com/drifter1/drifter1/blob/main/assets/pikachu-wave.gif" width="300px"/>
 
 </div>
