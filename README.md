@@ -56,9 +56,9 @@
 
 <div align="center">
 
-*"Try not to become a man of success, but rather try to become a man of value."*  
+*“O mais importante e bonito, do mundo, é isto: que as pessoas não estão sempre iguais, ainda não foram terminadas – mas que elas vão sempre mudando.”*  
 
-— **Albert Einstein**
+— **Grande Sertão: Veredas - Guimarães Rosa**
 
 </div>
 
